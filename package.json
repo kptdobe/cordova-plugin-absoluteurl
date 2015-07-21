@@ -1,0 +1,31 @@
+{
+  "name": "cordova-plugin-absoluteurl",
+  "version": "1.0.0",
+  "description": "Cordova AbsoluteURL Plugin",
+  "cordova": {
+    "id": "cordova-plugin-absoluteurl",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kptdobe/cordova-plugin-absoluteurl.git"
+  },
+  "keywords": [
+    "cordova",
+    "absoluteurl",
+    "absolute",
+    "url",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=3.6.0"
+    }
+  ],
+  "author": "Alexandre Capt",
+  "license": "Apache 2.0"
+}
